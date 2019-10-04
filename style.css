@@ -1,5 +1,5 @@
 :root {
-    --base: #ffc600;
+    --base: #deff0a;
     --spacing: 10px;
     --blur: 10px;
   }
@@ -13,7 +13,7 @@
   }
   body {
     text-align: center;
-    background: #193549;
+    background: #052e0b;
     color: white;
     font-family: 'helvetica neue', sans-serif;
     font-weight: 100;
